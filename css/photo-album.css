@@ -123,11 +123,11 @@ footer p{
         flex-direction: column;
     }
     nav ul{
-         margin: 8% 40% 8% 12%; 
+         margin: 8% 45% 8% 8%; 
     }
     .logo h2{
-         margin-left: 30%;
-         margin-right: 30%;
+         margin-left: 23%;
+         margin-right: 55%;
          font-size: 25px; 
          white-space: nowrap;
     }
